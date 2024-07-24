@@ -1,8 +1,11 @@
+## Who
+
+Trying to make the world a better place by working on open source projects since the last century.
+
 ## GitHub Statistics
 
 ![](https://raw.githubusercontent.com/vadz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vadz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/vadz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vadz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
